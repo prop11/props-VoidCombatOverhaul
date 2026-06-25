@@ -1,0 +1,11 @@
+{
+  "Id": "VoidCombatOverhaul",
+  "DisplayName": "Void Combat Overhaul",
+  "Author": "YourNameHere",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.25.0",
+  "GameVersion": "0.1.0",
+  "AssemblyName": "VoidCombatOverhaul.dll",
+  "EntryMethod": "VoidCombatOverhaul.Main.Load",
+  "Description": "Overhauls space combat: weapon range matters, shields absorb more, morale degrades under fire, torpedoes deal bonus damage on flanks, and escape is harder."
+}

@@ -1,0 +1,6 @@
+C:\Users\alexw\Documents\Modding\RT40k\VoidCombatOverhaul\obj\Debug\VoidCombatOverhaul.csproj.AssemblyReference.cache
+C:\Users\alexw\Documents\Modding\RT40k\VoidCombatOverhaul\obj\Debug\VoidCombatOverhaul.IgnoresAccessChecksTo.cs
+C:\Users\alexw\Documents\Modding\RT40k\VoidCombatOverhaul\obj\Debug\VoidCombatOverhaul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexw\Documents\Modding\RT40k\VoidCombatOverhaul\obj\Debug\VoidCombatOverhaul.AssemblyInfoInputs.cache
+C:\Users\alexw\Documents\Modding\RT40k\VoidCombatOverhaul\obj\Debug\VoidCombatOverhaul.AssemblyInfo.cs
+C:\Users\alexw\Documents\Modding\RT40k\VoidCombatOverhaul\obj\Debug\VoidCombatOverhaul.csproj.CoreCompileInputs.cache

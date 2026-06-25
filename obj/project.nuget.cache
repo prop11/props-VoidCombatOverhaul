@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EnDkLdH4lyM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexw\\Documents\\Modding\\RT40k\\VoidCombatOverhaul\\VoidCombatOverhaul.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexw\\.nuget\\packages\\bepinex.assemblypublicizer.msbuild\\0.4.2\\bepinex.assemblypublicizer.msbuild.0.4.2.nupkg.sha512",
+    "C:\\Users\\alexw\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\alexw\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net481\\1.0.3\\microsoft.netframework.referenceassemblies.net481.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
