@@ -17,7 +17,7 @@ All settings are adjustable live in the UMM panel (Ctrl+F10).
 
 ## Installation
 
-Copy the `VoidCombatOverhaul` folder into:
+Copy the `VoidCombatOverhaul` dll into:
 ```
 %AppData%\..\LocalLow\Owlcat Games\Warhammer 40000 Rogue Trader\UnityModManager\
 ```
